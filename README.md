@@ -2,27 +2,13 @@ Perceptron: Página de Produto de Robô Doméstico
 Este projeto é uma página de produto estática e simples para um robô doméstico fictício chamado "Perceptron". A página foi projetada para exibir o robô com uma imagem, um preço e uma breve descrição, juntamente com um botão "Comprar".
 
 <img src="./Imagens/robot.png" alt="Captura de tela da página do produto Perceptron">
-***
+_________________________________________________________________________________________________________________________________________________________________________________________
 
 Tecnologias Utilizadas
 HTML5: Para a estrutura e o conteúdo da página.
 
 CSS3: Para a estilização do layout, cores e fontes.
-
-Ótimo! O CSS que você forneceu cria um layout mais dinâmico usando Grid e estilos mais específicos. Ele deixa a página com uma aparência mais profissional e moderna.
-
-Para o README ficar completo, vou atualizar a seção de Código com o novo CSS.
-
-Perceptron: Página de Produto de Robô Doméstico
-Este projeto é uma página de produto estática e simples para um robô doméstico fictício chamado "Perceptron". A página foi projetada para exibir o robô com uma imagem, um preço e uma breve descrição, juntamente com um botão "Comprar".
-
-<img src="./Imagens/robot.png" alt="Captura de tela da página do produto Perceptron">
-
-Tecnologias Utilizadas
-HTML5: Para a estrutura e o conteúdo da página.
-
-CSS3: Para a estilização do layout, cores e fontes.
-
+_________________________________________________________________________________________________________________________________________________________________________________________
 Como Executar
 Para visualizar este projeto, siga os seguintes passos:
 
@@ -31,17 +17,16 @@ Para visualizar este projeto, siga os seguintes passos:
 Bash
 
 git clone https://github.com/seu-usuario/seu-nome-do-repositorio.git
-
+_________________________________________________________________________________________________________________________________________________________________________________________
 2. Navegue até o diretório do projeto:
-
 Bash
 
 cd seu-nome-do-repositorio
-
+_________________________________________________________________________________________________________________________________________________________________________________________
 3. Abra o arquivo index.html:
 
 Abra o arquivo index.html no seu navegador web de preferência (por exemplo, Chrome, Firefox, Safari).
-
+_________________________________________________________________________________________________________________________________________________________________________________________
 CÓDIGO
 
 
@@ -95,7 +80,7 @@ h1 {
     cursor: pointer;
     margin-top: 20px;
 }
-
+_________________________________________________________________________________________________________________________________________________________________________________________
 CSS
 
 body {
