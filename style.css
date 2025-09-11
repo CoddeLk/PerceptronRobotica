@@ -1,0 +1,43 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+h1 {
+  font-size: 3em;
+}
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Duas colunas de tamanho igual */
+  gap: 20px; /* Espaço entre as colunas */
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.imagemProduto {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.preco {
+  background-color: #e9e9e9;
+  padding: 5px 10px;
+  border-radius: 5px;
+  display: inline-block;
+  font-weight: bolder;
+  margin-bottom: 10px;
+}
+
+.botaoComprar {
+  background-color: #a052ff;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+}
